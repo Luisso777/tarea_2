@@ -1,0 +1,36 @@
+
+   [
+   {
+        "registro":1,
+        "nombre" : "luis ",
+        "edad" : 20,
+        "estudiante activo" : "si",
+        "carnet": 201801420
+        
+
+    },
+    {
+        "registro":2,
+        "nombre" : "carlos ",
+        "edad" : 21,
+        "estudiante activo" : "si",
+        "carnet": 201801430
+
+    },
+    {
+
+    
+    "registro":3,
+    "nombre" : "damaris ",
+    "edad" : 22,
+    "estudiante activo" : "no",
+    "carnet": 201701230
+    },
+    {
+        "registro":4,
+        "nombre" : "dulce ",
+        "edad" : 23,
+        "estudiante activo" : "si",
+        "carnet": 201601130
+    }
+   ]

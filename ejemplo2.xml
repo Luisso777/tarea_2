@@ -1,0 +1,44 @@
+
+<registros>
+
+<registro_1>
+
+<atributo1 carrera = "ingenieria"></atributo1>
+<atributo2 trabaja = "si"></atributo2>
+<atributo3 apellido= "santizo"></atributo3>
+<atributo4 telefono = "5456485"></atributo4>
+
+</registro_1>
+
+
+<registro_2 >
+
+<atributo1 carrera = "derecho"></atributo1>
+<atributo2 trabaja = "no"></atributo2>
+<atributo3 apellido= "perez"></atributo3>
+<atributo4 telefono = "4456785"></atributo4>
+
+</registro_2>
+
+<registro_3 >
+
+<atributo1 carrera = "farmacia"></atributo1>
+<atributo2 trabaja = "no"></atributo2>
+<atributo3 apellido= "flores"></atributo3>
+<atributo4 telefono = "5556485"></atributo4>
+
+</registro_3>
+
+<registro_4 >
+
+<atributo1 carrera = "medicina"></atributo1>
+<atributo2 trabaja = "si"></atributo2>
+<atributo3 apellido= "guzman"></atributo3>
+<atributo4 telefono = "7456485"></atributo4>
+
+</registro_4>
+
+
+
+</registros>
+
